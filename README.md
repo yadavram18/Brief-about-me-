@@ -43,6 +43,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsramashish&show_icons=true&locale=en&layout=compact" alt="itsramashish" /></p>
-
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsramashish&show_icons=true&locale=en&layout=compact" alt="itsramashish" />
+</p><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsramashish&show_icons=true&locale=en" alt="itsramashish" /></p>
